@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UserInput()
+comment1.params=s
+comment1.target=void\ prompt(java.lang.String)
+comment2.params=
+comment2.target=char\ readChar()
+comment3.params=
+comment3.target=java.lang.String\ readString()
+comment4.params=
+comment4.target=short\ readShort()
+comment5.params=
+comment5.target=int\ readInt()
+comment6.params=
+comment6.target=float\ readFloat()
+comment7.params=
+comment7.target=double\ readDouble()
+comment8.params=
+comment8.target=long\ readLong()
+numComments=9
